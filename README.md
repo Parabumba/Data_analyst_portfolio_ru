@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - Excel 
   - Power BI
-    -
+    
     
   
 
