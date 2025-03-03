@@ -52,21 +52,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Навыки:** data cleaning, data analysis, hypothesis testing, data visualization.
 
-**Библиотеки:** Python, Pandas, Matplotlib.
-
 **Результат:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
 
+### Анализ ультрамарофонов
+**Код:** [`UM_project.ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/UM_project.ipynb)
 
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+**Описание:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
+**Навыки:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 
 ### Covid 19 Data Exploration
