@@ -63,34 +63,21 @@ In this section I will list data analytics projects briefly describing the techn
 **Навыки:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+### Подготовка данных к анализу
+**Code:** [`Cleaning.ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/Cleaning.ipynb)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Описание:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
-
-
-
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
+**Навыки:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 
 
 
 
-## Education
+
+
+
+## Образование
 University of Colorado, Boulder: 
 Master of Science - MS, Data Science,
 Dec 2022 - Dec 2024
@@ -103,12 +90,12 @@ Pre University School:
 Associate's degree, Science and Mathematics,
 2017 - 2019
 
-## Certificates
+## Сертификаты
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
 - [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
-## Contacts
+## Контактная информация
 - LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
 - Email: parristianna@yahoo.com
