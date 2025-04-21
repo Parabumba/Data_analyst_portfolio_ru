@@ -6,9 +6,7 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
-
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+В данном репозитории представлены мои pet-проекты, отражающие мои навыки в аналитике данных.
 
 ## Содержание
 - [About](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#about)
