@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Содержание
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-analyst-portfolio-ru/blob/main/README.md#Проекты)
+- [Portfolio Projects](https://github.com/Parabumba/Data_analyst_portfolio_ru/blob/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
