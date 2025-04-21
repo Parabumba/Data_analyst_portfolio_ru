@@ -11,11 +11,13 @@ My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Содержание
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/Parabumba/Data_analyst_portfolio_ru/blob/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
+- [About](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#about)
+- [Pet Projects](https://github.com/Parabumba/Data_analyst_portfolio_ru/blob/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [Анализ винного рынка](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0)
+    - [Анализ стоимости медицинской страховки](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BA%D0%B8)
+    - [Анализ ультрамарофонов](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D0%BC%D0%B0%D1%80%D0%BE%D1%84%D0%BE%D0%BD%D0%BE%D0%B2)
+    - [Подготовка данных к анализу](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BA-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83)
   - Excel 
   - Power BI
     
