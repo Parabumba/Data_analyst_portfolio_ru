@@ -1,4 +1,4 @@
-# Tianna Parris - Data Analyst Portfolio
+# Пивненко Кирилл - Портфолио аналитика данных
 ## About
 Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
@@ -78,24 +78,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Образование
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
-
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
+Томский политехнический университет, Томск: 
+Биотехнология, бакалавриат
+2022-2026
 
 ## Сертификаты
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
 - [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Контактная информация
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- Email: pivnenkokirill628@gmail.com
+
+  
