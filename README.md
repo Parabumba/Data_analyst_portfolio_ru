@@ -59,7 +59,7 @@
 
 
 ### Подготовка данных к анализу
-**Code:** [`Cleaning.ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/Cleaning.ipynb)
+**Код:** [`Cleaning.ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/Cleaning.ipynb)
 
 **Описание:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -71,12 +71,12 @@
 
 ## Образование
 Томский политехнический университет: 
-Биотехнология, бакалавриат
+Биотехнология, бакалавриат,
 Сентябрь 2022 - настоящее время
 
 Томский политехнический университет:
-Аналитика данных,дополнительная специализация
-Сентябрь2024 - настоящее время
+Аналитика данных, дополнительная специализация
+Сентябрь 2024 - настоящее время
 
 ## Сертификаты
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
