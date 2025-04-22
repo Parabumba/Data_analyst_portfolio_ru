@@ -1,16 +1,14 @@
 # Пивненко Кирилл - Портфолио аналитика данных
 ## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Обладаю техническим бэкграундом, в данный момент обучаюсь на 3 курсе бакалавриата, а также получаю дополнительную специализацию аналитика данных. Я готов применять свои технические навыки в роли начинающего data-специалиста.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
-
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+Во время учебы я научился работать со сложными данными, выявлять закономерности и тенденции, проверять гипотезы. Мой опыт включает лабораторные исследования, работу с большим количеством информации, что станет прочным фундаментом в работе с данными. 
 
 В данном репозитории представлены мои pet-проекты, отражающие мои навыки в аналитике данных.
 
 ## Содержание
 - [About](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#about)
-- [Pet Projects](https://github.com/Parabumba/Data_analyst_portfolio_ru/blob/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
+- [Проекты](https://github.com/Parabumba/Data_analyst_portfolio_ru/blob/main/README.md#%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
   - Python
     - [Анализ винного рынка](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0)
     - [Анализ стоимости медицинской страховки](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9-%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%BA%D0%B8)
@@ -21,11 +19,10 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
     
   
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Образование](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Сертификаты](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Контактная информация](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Проекты:
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Анализ винного рынка
 **Код:** [`WineProject (1).ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/WineProject%20(1).ipynb)
@@ -72,9 +69,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-
-
-
 ## Образование
 Томский политехнический университет, Томск: 
 Биотехнология, бакалавриат
@@ -87,5 +81,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Контактная информация
 - Email: pivnenkokirill628@gmail.com
+- Telegram: @trixiez
 
   
