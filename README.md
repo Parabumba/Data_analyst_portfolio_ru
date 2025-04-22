@@ -70,9 +70,13 @@
 
 
 ## Образование
-Томский политехнический университет, Томск: 
+Томский политехнический университет: 
 Биотехнология, бакалавриат
-2022-2026
+Сентябрь 2022 - настоящее время
+
+Томский политехнический университет:
+Аналитика данных,дополнительная специализация
+Сентябрь2024 - настоящее время
 
 ## Сертификаты
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
