@@ -27,27 +27,18 @@
 ### Анализ винного рынка
 **Код:** [`WineProject (1).ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/WineProject%20(1).ipynb)
 
-**Цель:** To determine what factors contribute the most to a movie's success.
+**Описание:** Проект сфокусирован на анализе 130000 оценок вин. Датасет содержит название вина, страну происхождения, оценку качества вина по 100-балльной шкале, стоимость, регион происхождения, сорт и винодельню. Проект включал в себя загрузку данных, их очистку и проведение анализа корреляции между различными параметрами. 
+**Навыки:** Подготовка данных, анализ данных, визуализация данных.
+**Библиотеки:** Pandas, Seaborn, Matplotlib.
 
-**Описание:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
-
-**Навыки:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
-
-**Библиотеки:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
-
-**Результат:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
 ### Анализ стоимости медицинской страховки
-
-**Цель:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
 **Код:** [`insuranceproject.ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/insuranceproject.ipynb)
 
 **Описание:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
 
-**Навыки:** data cleaning, data analysis, hypothesis testing, data visualization.
-
-**Результат:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+**Навыки:** data cleaning, data analysis, hypothesis testing, data visualization.correlation matrices
 
 
 ### Анализ ультрамарофонов
