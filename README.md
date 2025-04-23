@@ -45,19 +45,14 @@
 ### Анализ ультрамарофонов
 **Код:** [`UM_project.ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/UM_project.ipynb)
 
-**Описание:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+**Описание:** Датасет содержит информацию про более чем 7 миллионов участников ультрамарафонов. Целью проекта была стандартизация данных, а также проведение предварительного анализа данных с целью обнаружения различных факторов, влияющих на скорость забега ультрамарафонца. 
 
-**Навыки:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 
 ### Подготовка данных к анализу
 **Код:** [`Cleaning.ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/Cleaning.ipynb)
 
-**Описание:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Навыки:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-
+**Описание:** Целью проекта была подготовка "сырого" датасета, содержащего данные о покупках в магазине, к дальнейшему анализу.
 
 
 
