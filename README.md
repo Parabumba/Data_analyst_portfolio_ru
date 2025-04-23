@@ -19,9 +19,9 @@
     
   
 
-- [Образование](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Сертификаты](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Контактная информация](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Образование](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)  
+- [Сертификаты](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B)
+- [Контактная информация](https://github.com/Parabumba/Data_analyst_portfolio_ru?tab=readme-ov-file#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
 ## Проекты:
 
 ### Анализ винного рынка
@@ -66,9 +66,7 @@
 Сентябрь 2024 - настоящее время
 
 ## Сертификаты
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- TPU certificate in English, level C1
 
 ## Контактная информация
 - Email: pivnenkokirill628@gmail.com
