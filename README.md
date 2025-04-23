@@ -28,6 +28,7 @@
 **Код:** [`WineProject (1).ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/WineProject%20(1).ipynb)
 
 **Описание:** Проект сфокусирован на анализе 130000 оценок вин. Датасет содержит название вина, страну происхождения, оценку качества вина по 100-балльной шкале, стоимость, регион происхождения, сорт и винодельню. Проект включал в себя загрузку данных, их очистку и проведение анализа корреляции между различными параметрами. 
+
 **Навыки:** Подготовка данных, анализ данных, визуализация данных.
 **Библиотеки:** Pandas, Seaborn, Matplotlib.
 
@@ -36,9 +37,9 @@
 
 **Код:** [`insuranceproject.ipynb`](https://github.com/Parabumba/Portfolio_projects/blob/main/insuranceproject.ipynb)
 
-**Описание:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Описание:** В данном проекте исследуется влияние следующих факторов на стоимость медицинской страховки: возраст, пол, индекс массы тела, количество детей, курение, регион проживания. Также, проект включает в себя обучение модели машинного обучения, способной предсказывать стоимость медицинской страховки
 
-**Навыки:** data cleaning, data analysis, hypothesis testing, data visualization.correlation matrices
+**Навыки:** Подготовка данных, анализ данных, визуализация данных, матрица корреляции, создание модели машинного обучения.
 
 
 ### Анализ ультрамарофонов
